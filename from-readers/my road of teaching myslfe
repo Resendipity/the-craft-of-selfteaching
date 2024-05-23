@@ -1,1 +1,4 @@
+install python
+find pip 
+install jupyterlab
 
